@@ -1,4 +1,4 @@
-# Neural Network Interpretability Research
+# Probing Linguistic Properties of SAEs
 
 ## Repository Overview
 
